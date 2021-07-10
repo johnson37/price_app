@@ -1,0 +1,13 @@
+This is one register event
+Congratulation!
+type object 'User' has no attribute 'name1'
+User Already exist in System
+type object 'User' has no attribute 'name1'
+This is one register event
+Congratulation!
+type object 'User' has no attribute 'name1'
+Congratulation!
+type object 'User' has no attribute 'name1'
+This is one register event
+2021-07-07 14:57:20 : User Already exist in System
+2021-07-07 14:57:20 : type object 'User' has no attribute 'name1'

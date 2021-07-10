@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "D:\Python_QT\Hello_pro\entrypoint.py", line 25, in <module>
+    w = Login()
+  File "D:\Python_QT\Hello_pro\Wrapper\login_wrapper.py", line 16, in __init__
+    self.register_win = Register()
+  File "D:\Python_QT\Hello_pro\Wrapper\register_wrapper.py", line 21, in __init__
+    self.main_win = Mainwin()
+  File "D:\Python_QT\Hello_pro\Wrapper\mainwin.py", line 13, in __init__
+    self.ui = self.init_win()
+  File "D:\Python_QT\Hello_pro\Wrapper\mainwin.py", line 19, in init_win
+    ui.price_label.setText(Mainwin.get_price())
+TypeError: setText(self, str): argument 1 has unexpected type 'int'

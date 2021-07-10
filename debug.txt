@@ -1,0 +1,15 @@
+This is one register event
+2021-07-07 15:01:46 : User Already exist in System
+Valid User and Password
+Valid User and Password
+Valid User and Password
+Valid User and Password
+This is one register event
+2021-07-07 16:08:51 : Add one new user Johnsontest
+This is one register event
+2021-07-07 16:10:50 : Add one new user Jennifer
+This is one register event
+This is one register event
+2021-07-07 16:13:32 : User Already exist in System
+2021-07-07 16:13:35 : Add one new user Jennifer1
+Valid User and Password
